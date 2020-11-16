@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882129812820",
+    "firebase_url": "https://projectarsenic2020.firebaseio.com",
+    "project_id": "projectarsenic2020",
+    "storage_bucket": "projectarsenic2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882129812820:android:321bdb0c4529b9c1411cc1",
+        "android_client_info": {
+          "package_name": "com.sarker.projectarsenic2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882129812820-n9kjqbd7a5up3lpsd6rd2tk66com9gfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDTa7j8WtwCSHVVYFquBHkin9Mhddn1VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882129812820-n9kjqbd7a5up3lpsd6rd2tk66com9gfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

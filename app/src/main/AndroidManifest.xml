@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sarker.projectarsenic2020">
+
+    <application
+        android:name=".OfflineFirebase"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="ProjectArsenic2020"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".FormDetails"></activity>
+        <activity android:name=".ViewFormList" />
+        <activity android:name=".QnA" />
+        <activity
+            android:name=".NewForm"
+            android:theme="@style/Theme.MyApp" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
